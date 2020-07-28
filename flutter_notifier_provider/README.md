@@ -1,6 +1,8 @@
-## flutter_notifier_provider
+## flutter ChangeNotifierProviderの利用方法
 
-https://pub.dev/packages/provider
+### ChangeNotifierProviderパッケージの利用方法
+
+参考：https://pub.dev/packages/provider
 
 1.pubspec.yamlファイルの編集
 
