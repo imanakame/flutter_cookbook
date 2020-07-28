@@ -6,8 +6,10 @@
 
 1.pubspec.yamlファイルの編集
 
+```dart
 dependencies:
   provider: ^4.3.1
+```
 
 2.インストール
 $ flutter pub get
