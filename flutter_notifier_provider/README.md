@@ -1,16 +1,15 @@
-# flutter_notifier_provider
+## flutter_notifier_provider
 
-A new Flutter application.
+https://pub.dev/packages/provider
 
-## Getting Started
+1.pubspec.yamlファイルの編集
 
-This project is a starting point for a Flutter application.
+dependencies:
+  provider: ^4.3.1
 
-A few resources to get you started if this is your first Flutter project:
+2.インストール
+$ flutter pub get
+ターミナルで実行
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.main.dartに下記を追加
+import 'package:provider/provider.dart';
