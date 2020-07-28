@@ -12,8 +12,13 @@ dependencies:
 ```
 
 2.インストール
+ターミナルで下記を実行する
+```
 $ flutter pub get
-ターミナルで実行
+```
 
 3.main.dartに下記を追加
+
+```dart
 import 'package:provider/provider.dart';
+```
